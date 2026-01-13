@@ -1,0 +1,24 @@
+test_auth
+| Caso       | Resultado     |
+| ---------- | ------------- |
+| CP-AUTH-01 | 201 – Exitosa |
+| CP-AUTH-02 | 400 – Exitosa |
+| CP-AUTH-03 | 500 – Exitosa |
+
+test_usuario
+| Caso      | Resultado     |
+| --------- | ------------- |
+| CP-USU-01 | 200 – Exitosa |
+| CP-USU-02 | 500 – Exitosa |
+
+test_ficha
+| Caso      | Resultado     |
+| --------- | ------------- |
+| CP-FIC-01 | 201 – Exitosa |
+| CP-FIC-02 | 500 – Exitosa |
+
+test_programa
+| Caso      | Resultado     |
+| --------- | ------------- |
+| CP-PRO-01 | 201 – Exitosa |
+| CP-PRO-02 | 500 – Exitosa |
